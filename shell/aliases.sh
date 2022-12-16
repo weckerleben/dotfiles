@@ -49,3 +49,4 @@ alias testwindu='ping windu.sigor.gov.py'
 alias windu='ssh root@windu.sigor.gov.py'
 alias vader='ssh -oHostKeyAlgorithms=+ssh-dss root@192.168.80.252'
 alias sigorsql='vim /home/weckerleben/Documents/CambiosTEST/we_sigor_script.sql'
+
