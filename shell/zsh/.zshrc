@@ -27,3 +27,8 @@ prompt ${DOTLY_THEME:-codely}
 source "$DOTLY_PATH/shell/zsh/bindings/dot.zsh"
 source "$DOTLY_PATH/shell/zsh/bindings/reverse_search.zsh"
 source "$DOTFILES_PATH/shell/zsh/key-bindings.zsh"
+export PATH="/usr/local/bin:$PATH"
+export PATH="/usr/local/bin:$PATH"
+
+export NVM_DIR="/home/weckerleben/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"  # This loads nvm
