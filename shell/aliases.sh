@@ -74,3 +74,4 @@ alias registros='/home/weckerleben/Documents/repositorios/registro'
 # WE
 alias we.='ssh -p 22022 williamecker@192.99.18.106'
 alias dirbuster='source /opt/dirbuster/DirBuster-1.0-RC1.sh'
+alias changeBtn='gsettings set org.gnome.desktop.wm.preferences.button-layout '
